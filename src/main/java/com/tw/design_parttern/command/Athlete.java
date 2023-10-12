@@ -1,7 +1,5 @@
 package com.tw.design_parttern.command;
 
-import javax.sql.CommonDataSource;
-
 public class Athlete {
 
     private Command command;
