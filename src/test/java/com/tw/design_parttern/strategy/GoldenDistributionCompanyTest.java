@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class GoldenDistributionCompanyTest {
-
     @Test
     void should_get_delivery_manifest_when_delivery_goods_with_sf() {
         ExpressCompany sfExpress = new SfExpressCompany();

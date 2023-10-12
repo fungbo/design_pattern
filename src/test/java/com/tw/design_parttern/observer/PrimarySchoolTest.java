@@ -8,7 +8,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class PrimarySchoolTest {
-
     @Test
     void should_get_feeling_from_male_student_when_homework_is_dispatched() {
         PrimarySchool no1PrimarySchool = new No1PrimarySchool();
